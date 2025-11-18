@@ -1,119 +1,57 @@
-
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=SabAlej&label=Visits%20&color=blueviolet&style=plastic" alt="views"height="18" width="100"/> </p>
-
-<h1 align="center"><em>Hi there!</em></h1> 
-
-
-
-<h4 align="left"><em>
-	I'm Sab, a passionate developer and lifelong learner, always eager to explore new languages, libraries and frameworks to conquer challenging problems.
-	I thrive in the collaborative spirit of Open Source and am excited to deep dive in areas like security, testing and automation. 
-	Whether it's vulnerability assessments, automated test suites, or bugs, let me know how I can support your project in these or other ways. 
-	I'm also passionate about collaborative spirit, sharing knowledge, experience and cats! 
-	So if any of this rings a bell, I'd love to hear from you! Get in touch at <a href="https://discord.gg/pwAHX3dHgx" target="_blank" rel="noreferrer"> 
-	<img src="https://i.pinimg.com/originals/b2/09/d7/b209d7c26d18423c4688ed01cdbedfa7.png" alt="discord" width="16"/> sab1102 </a>  or open an <a href="https://github.com/SabAlej/SabAlej/issues" target="_blank" rel="noreferrer">issue</a> here on my GitHub.
-</em>
-</h4>
-
------
-
-<br><br>
-
-<p align="center" >
-	<kbd>
-		<kbd>Languages</kbd>
-		<br>
-		<br>
-	<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-	<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-		<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> 
-		<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-	<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
-	<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> 
-	</kbd>
-	<kbd>
-		<kbd>FrameWorks</kbd>
-		<br>
-		<br>
-	<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
-		<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
-	</kbd>
-	<kbd>
-		<kbd>Libraries</kbd>
-		<br>
-		<br>
-	<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-	<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
-	<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
-	<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-		<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
-		<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" />
-	</kbd>
-	<kbd>
-		<kbd>Packages</kbd>
-		<br>
-		<br>
-	<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" />
-	<img width="30px" src="https://github.com/eslint.png" />
-	<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" />
-	<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
-	</kbd>
-	<kbd>
-		<kbd>Cloud Services</kbd>
-		<br>
-		<br>
-	<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
-	<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
-	</kbd>
-	<kbd>
-		<kbd>Data Bases</kbd>
-		<br>
-		<br>
-	<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-	<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-	<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
-	</kbd>
-	<kbd>
-		<kbd>Integration</kbd>
-		<br>
-		<br>
-	<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" />
-	<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-	<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/travis/travis-plain.svg" />
-	<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" />
-	</kbd>
-	<kbd>
-		<kbd>Tools</kbd>
-		<br>
-		<br>
-	<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-	<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg">
-	<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg" />
-	<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />	
-	<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" />
-	<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" />
-	<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-	<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-	<img width="30px" src="https://github.com/vitejs.png" />
-	<img width="30px" src="https://github.com/vercel.png" />
-	<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" />
-	</kbd>
-	<kbd>
-		<kbd>OS</kbd>
-		<br>
-		<br>
-	<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-	<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
-	<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
-	</kbd>
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=SabAlej&label=Profile%20Views&color=blueviolet&style=flat-square" height="20"/>
 </p>
 
+<h1 align="center"><strong>Sabrina Campos</strong></h1>
+<h3 align="center">Full-Stack Engineer • Systems Architect • React • Next.js • AWS</h3>
 
+---
 
-<br><br><br>
+I build full-stack systems end-to-end — web apps, cloud services, mapping platforms, analytics pipelines, and real-time device integrations. My work often combines:
+
+- React/Next.js + modular component architecture  
+- AWS serverless (Lambda, API Gateway, RDS, S3)  
+- Geospatial data (Mapbox, GeoJSON, Turf.js)  
+- PostgreSQL pipelines and data modeling  
+- Real-time communication (WebSockets)  
+- Hardware integration (Android USB Serial + ccTalk)  
+
+I focus on **clarity, maintainability, and system-level thinking** — solving problems that touch multiple layers at once.
+
+If you’re working on something technically interesting and need help building or scaling it, feel free to reach out or open an issue.
+
+---
+
+## 🛠️ Core Technologies
+
+**Frontend:**  
+React · Next.js · TypeScript · Tailwind · Zustand · Plotly · Nivo
+
+**Backend:**  
+Node.js · Python · Flask · REST APIs · WebSockets · SQLite
+
+**Cloud / DevOps:**  
+AWS Lambda · API Gateway · RDS · S3 · CloudWatch · IAM · Docker · CI/CD
+
+**Data / Geo:**  
+PostgreSQL · GA4 Pipelines · Mapbox · Turf.js · GeoJSON
+
+**Hardware:**  
+Android (Kotlin/Compose) · USB Serial · ccTalk Protocol
+
+---
+
+## 📊 GitHub Stats
+
 <p align="center">
-<img alt="SabAlej" src="https://github-readme-stats.vercel.app/api?username=SabAlej&show_icons=true&count_private=true&locale=en&theme=transparent&show=reviews,prs_merged,prs_merged_percentage&hide=stars&rank_icon=github&title_color=8A2BE2&icon_color=8A2BE2&border_color=8A2BE2" height="220px"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=SabAlej&layout=compact&langs_count=6&locale=en&theme=transparent&hide_progress=true&title_color=8A2BE2&icon_color=8A2BE2&border_color=8A2BE2" alt="SabAlej" width="220px"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=SabAlej&show_icons=true&count_private=true&theme=transparent&hide=stars&rank_icon=github&title_color=8A2BE2&icon_color=8A2BE2&border_color=8A2BE2"
+    height="200"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=SabAlej&layout=compact&langs_count=6&theme=transparent&hide_progress=true&title_color=8A2BE2&icon_color=8A2BE2&border_color=8A2BE2"
+    height="200"
+  />
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
